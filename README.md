@@ -6,6 +6,7 @@ Codingame puzzles solutions in Java
 * [Temperatures](https://github.com/FannouZ/codingame-solutions/blob/main/Easy/Temperatures.java)
 * [The Descent](https://github.com/FannouZ/codingame-solutions/blob/main/Easy/TheDescent.java)
 * [The Power Of Thor](https://github.com/FannouZ/codingame-solutions/blob/main/Easy/PowerOfThor.java)
+* [Tree Paths](https://github.com/FannouZ/codingame-solutions/blob/main/Easy/TreePaths.java)
 
 ## Medium
 * [Shadows Of The Knight - Episode 1](https://github.com/FannouZ/codingame-solutions/blob/main/Medium/ShadowsOfTheKnight.java)
